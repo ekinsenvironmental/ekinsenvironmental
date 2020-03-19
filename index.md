@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: Ekins Environmental
+banner_title: Ekins
 banner_subtitle: Water. Wastewater. Environmental.
 background_image: /images/background.jpeg
 
