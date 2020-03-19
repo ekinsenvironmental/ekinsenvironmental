@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Ekins Environmental
+author: Ekins
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  Water. Wastewater. Environmental.
+baseurl: "ekins.ca"
 
 plugins:
   - jekyll-feed
