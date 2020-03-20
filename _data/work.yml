@@ -1,8 +1,8 @@
 # this file organizes the items in your portfolio, which are placed in the _includes folder
 # in the root directory
 
-work:
-  - category: New York City
+Resources:
+  - category: Wastewater Operations
     items:
       - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
@@ -12,7 +12,7 @@ work:
         image: /images/NYC3.jpg
       - item: example3.html
         image: /images/NYC4.jpg
-  - category: Los Angeles
+  - category: Environmental Monitoring
     items:
       - item: example.html
         image: /images/LA1.jpg
