@@ -1,5 +1,5 @@
 ---
-layout: hello-default
+layout: Ekins
 
 # using Markdown language, you can customize the following variables!
 
@@ -9,7 +9,7 @@ banner_subtitle: Water. Wastewater. Environmental.
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+page_url: /Environmental
 
 # favicon
 favicon: /assets/ico/favicon.ico
@@ -22,8 +22,8 @@ linkedin: kloverin (https://www.linkedin.com/in/kloverin/)
 # google_analytics: UA-160158789-1
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: ekins.ca/about
+about_button_label: About
 
 # optional portfolio section ------------------------------------------
 
@@ -37,19 +37,16 @@ portfolio_description: you can include a portfolio showcasing your work and orga
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
 cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
-cta_button: mailto:saragong@usc.edu # a link to an external website or to media
-cta_button_label: contact # the label on the button
+cta_button: mailto:ekinsenvironmental@gmail.com
+cta_button_label: contact 
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **ekins**?  
-
 ### **Ekins** has a simple goal: to make exceptional engineering accessible to everyone.  
   
-**ekins** is a minimalist consulting firm that provides thoughtful input and solutions on industrial projects - without large firm prices or inattentiveness. The ideal source for professional guidance.
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
+**Ekins** is a minimalist consulting firm that provides thoughtful resources and solutions on industrial projects - with detailed attention and reasonable prices. The ideal source for professional guidance.
 
+  
 The default layout of **ekins** is a streamlined consulting firm with three major subsections: Water, Wastewater, and Environmental. 
 liquid variables and markdwon coding.
 [Markdown](https://www.markdownguide.org/basic-syntax/).  
